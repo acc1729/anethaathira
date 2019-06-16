@@ -20,7 +20,7 @@ function jsonToMarkdown(diety) {
         descriptions.push(description);
     }
     ;
-    return ("##" + diety.name + "\n\n###Spheres: " + spheres.join(", ") + "\n\n" + descriptions.join("\n") + "\n");
+    return ("## " + diety.name + "\n\n### Spheres: " + spheres.join(", ") + "\n\n" + descriptions.join("\n") + "\n");
 }
 ;
 var files = fs.readdirSync('./').filter(function (file) { return file.endsWith('.json'); });

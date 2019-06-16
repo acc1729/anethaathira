@@ -22,9 +22,9 @@ function jsonToMarkdown(diety: Diety): string | void {
         descriptions.push(description);
     };
     return (
-        `##${diety.name}
+        `## ${diety.name}
 
-###Spheres: ${spheres.join(", ")}
+### Spheres: ${spheres.join(", ")}
 
 ${descriptions.join("\n")}
 `
