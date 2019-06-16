@@ -1,0 +1,15 @@
+{
+    "name": "!Aua, Goddess of Serenity",
+    "descriptions": [
+        "Aua is the goddess of serenity, who grants favor to those who do not disturb the world around them. A kind and caring goddess, her adherents swear oaths of silence.",
+        "Due to these oaths, her existence is unknown to the masses, with Jack being her only notable adherent, and chosen scion."
+    ],
+    "adherents": [
+        "Jack"
+    ],
+    "spheres": [
+        "Silence",
+        "Sorcery",
+        "Serenity"
+    ]
+}

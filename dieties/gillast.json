@@ -1,0 +1,15 @@
+{
+    "name": "Gillast",
+    "descriptions": [
+        "God of the lizardfolk found through the plane of water. Believed to grant safe passage to sea-faring vessels, this god is frequently worshipped by sailors and merchants on anethaathira.",
+        "Typically portrayed as a gleaming fish."
+    ],
+    "adherents": [
+        "Lizardfolk"
+    ],
+    "spheres": [
+        "Salt Water",
+        "Trade",
+        "Travel"
+    ]
+}

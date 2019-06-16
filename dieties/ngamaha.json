@@ -1,0 +1,15 @@
+{
+    "name": "Ngamaha",
+    "descriptions": [
+        "The diety of the noble orcs, worshipped all throughout the plane of fire. Amidst the blistering heat of the deserts of fire, Ngamaha offers resolve and solace for the orcs who travel the plane.",
+        "Rarely worshipped outside of the plane of fire."
+    ],
+    "adherents": [
+        "Orcs"
+    ],
+    "spheres": [
+        "Fire",
+        "Punishment",
+        "Resolve"
+    ]
+}

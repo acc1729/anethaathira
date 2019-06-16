@@ -1,0 +1,15 @@
+{
+    "name": "Ceretedefini, Monarch of Minds",
+    "descriptions": [
+        "Ceretedefini is seen as having locked himself in darkness to pursue his study. Devotees often devote themselves towards the pursuit of new knowledge, even the mind-flayers of the underdark.",
+        "Typically portrayed as an elderly man wearing scholarly robes, his robes have become a symbol of piety amongst adherents."
+    ],
+    "adherents": [
+        "Illithids"
+    ],
+    "spheres": [
+        "Knowledge",
+        "Curiousity",
+        "darkness"
+    ]
+}
