@@ -20,19 +20,11 @@ function jsonToMarkdown(diety) {
         descriptions.push(description);
     }
     ;
-<<<<<<< HEAD
     return ("##" + diety.name + "\n\n###Spheres: " + spheres.join(", ") + "\n\n" + descriptions.join("\n") + "\n");
 }
 ;
 var files = fs.readdirSync('./').filter(function (file) { return file.endsWith('.json'); });
 var payload = ["# Dieties and Greater Beings of Anethaathira" + "\n"];
-=======
-    return ("##" + diety.name + "\n###Spheres: " + spheres.join(", ") + "\n\n" + descriptions.join("\n") + "\n");
-}
-;
-var files = fs.readdirSync('./').filter(function (file) { return file.endsWith('.json'); });
-var payload = ["# Dieties and Greater Beings of Anethaathira"];
->>>>>>> 7bac6757da793a5b6a77b89036c1733499714803
 files.forEach(function (file) {
     var rawdata = fs.readFileSync(file).toString();
     var diety = JSON.parse(rawdata);
