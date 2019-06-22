@@ -1,0 +1,13 @@
+{
+    "name": "Jack",
+    "region": "Ultimum Occidens, Ordia",
+    "title": "Eternal King",
+    "details": [
+        "Jack is a powerful sorceror who ascended to power in Ultimum Occidens. It's said his gaze alone is enough to bend the world to his will. Believing himself to be the true successor of John the Planebinder, he set himself as the monarch of the bridge, causing some conflict with the state of Ordia. None could afford to mount an assault on Ultimum, and Jack's uncontestable power has led to his stable, prosperous rule of the western half of the bridge.",
+        "!Jack is a Mindflayer whose relation with Aua allowed him to break free of the colony from the underdark. Jack has sworn a vow of silence under Aua, where his sorcerous powers could grow and bloom into his current state. He is believed to be the most powerful mage currently alive, having Aua over his shoulder and Edict in his hand."
+    ],
+    "patron": "Aua",
+    "relations": [
+        "Edict"
+    ]
+}

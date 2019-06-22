@@ -20,8 +20,14 @@ const options: Options = {
 }
 
 function jsonToDiety(diety: Diety, options: Options): string | void {
-    const { hide } = options;
+    const { hide, categories } = options;
     if (hide && diety.name.startsWith("!")) return;
+    let markdown = `### {}`;
+    for (let category of categories) {
+
+    }
+
+
     let spheres = [];
     for (let sphere of diety.spheres) {
         if (hide && sphere.startsWith("!")) continue;

@@ -1,0 +1,14 @@
+{
+    "name": "Kimnuseia",
+    "cities": [
+        "Tauricope",
+        "Santecrea",
+        "Ioles"
+    ],
+    "biomes": [
+        "Grassland",
+        "Temperate Forest",
+        "Savanna",
+        "Desert"
+    ]
+}

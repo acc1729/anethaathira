@@ -1,0 +1,14 @@
+{
+    "name": "Malcolm",
+    "region": "Placus, Kimnuseia",
+    "title": "Warlock",
+    "details": [
+        "Malcolm is a 26 year old human male. He is a rather thin man with sun-kissed skin, with a skinny nose and thin lips that match well with the rest of his body composition. His eyes are a deep amber color, and he has light brown hair with streaks of blonde. Typical attire for Malcolm on a daily basis is a black robe lined with bits of yellow design covering up leather armor underneath.",
+        "!Malcolm's pact with the arch-fey River King grants him power over reality, but at the cost of eternal service and fealty. Malcolm expects to be called to service at some point, but the River King does not wait for any moment in particular. Instead, the arch fey commands Malcolm in dreams, compelling the sleeping warlock to rise to serve his desires unknowingly."
+    ],
+    "patron": "",
+    "relations": [
+        "Darius",
+        "!The River King"
+    ]
+}
