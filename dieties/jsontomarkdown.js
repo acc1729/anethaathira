@@ -1,33 +1,41 @@
 'use strict';
-var fs = require('fs');
+exports.__esModule = true;
+var globber_1 = require("./../src/globber");
 ;
-function jsonToMarkdown(diety) {
-    if (diety.name.startsWith("!"))
+var options = {
+    hide: process.argv[2] === "true" ? true : false,
+    categories: process.argv.slice(3)
+};
+function jsonToDiety(diety, options) {
+    var hide = options.hide, categories = options.categories;
+    if (hide && diety.name.startsWith("!"))
         return;
     var spheres = [];
     for (var _i = 0, _a = diety.spheres; _i < _a.length; _i++) {
         var sphere = _a[_i];
-        if (sphere.startsWith("!"))
+        if (hide && sphere.startsWith("!"))
             continue;
         spheres.push(sphere);
     }
     ;
+    var adherents = [];
+    for (var _b = 0, _c = diety.adherents; _b < _c.length; _b++) {
+        var adherent = _c[_b];
+        if (hide && adherent.startsWith("!"))
+            continue;
+        adherents.push(adherent);
+    }
     var descriptions = [];
-    for (var _b = 0, _c = diety.descriptions; _b < _c.length; _b++) {
-        var description = _c[_b];
-        if (description.startsWith("!"))
+    for (var _d = 0, _e = diety.descriptions; _d < _e.length; _d++) {
+        var description = _e[_d];
+        if (hide && description.startsWith("!"))
             continue;
         descriptions.push(description);
     }
     ;
-    return ("## " + diety.name + "\n\n### Spheres: " + spheres.join(", ") + "\n\n" + descriptions.join("\n") + "\n");
+    var return_string = "";
+    return_string.concat("## " + diety.name);
+    return ("## " + diety.name + "\n### Spheres: " + spheres.join(", ") + "\n" + descriptions.join("  \n"));
 }
 ;
-var files = fs.readdirSync('./').filter(function (file) { return file.endsWith('.json'); });
-var payload = ["# Dieties and Greater Beings of Anethaathira" + "\n"];
-files.forEach(function (file) {
-    var rawdata = fs.readFileSync(file).toString();
-    var diety = JSON.parse(rawdata);
-    payload.push(jsonToMarkdown(diety));
-});
-fs.writeFileSync('dieties.md', payload.join('\n'));
+globber_1["default"](jsonToDiety, options, "Dieties of Anethaathira\n", 'dieties.md');
