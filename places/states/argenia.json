@@ -1,0 +1,16 @@
+{
+    "name": "Argenia",
+    "languages": [
+        "Argenian"
+    ],
+    "cities": [
+        "Raquendum",
+        "Aquilonis Finis"
+    ],
+    "biomes": [
+        "Tiaga",
+        "Tundra",
+        "Temperate Forest",
+        "Coast"
+    ]
+}

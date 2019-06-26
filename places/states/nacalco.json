@@ -1,0 +1,20 @@
+{
+    "name": "Nacalco",
+    "languages": [
+        "Nacalcan",
+        "Aquan"
+    ],
+    "cities": [
+        "Iztacheca"
+    ],
+    "biomes": [
+        "Savanna",
+        "Grassland",
+        "Temperate Forest",
+        "Coast"
+    ],
+    "descriptions": [
+        "A coastal country. Teatco broke off from Nacalco, and still speaks Nacalcan as a result. Trades heavily with Ordia and Yatinia due to its coastal situation.",
+        "!Currently poltically stable. Situated far away from the bridges and the termini, though is worried about the instability in Teatco."
+    ]
+}

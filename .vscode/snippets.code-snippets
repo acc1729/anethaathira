@@ -30,5 +30,13 @@
 			"{\n\t\"name\": \"$1\",\n\t\"region\": \"$2\",\n\t\"title\": \"$3\",\n\t\"details\": [\n\t\t\"$4\",\n\t\t\"!$5\"\n\t],\n\t\"patron\": \"$6\",\n\t\"relations\": [\n\t\t\"$7\"\n\t]\n}\n"
 		],
 		"description": "Add a new person."
+	},
+	"Country": {
+		"scope": "json",
+		"prefix": "state",
+		"body": [
+			"{\n\t\"name\": \"$1\",\n\t\"languages\": [\n\t\t\"$2\"\n\t],\n\t\"cities\": [\n\t\t\"$3\"\n\t],\n\t\"biomes\": [\n\t\t\"$4\"\n\t]\n}"
+		],
+		"Add a new country"
 	}
 }

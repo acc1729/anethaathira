@@ -1,0 +1,17 @@
+{
+    "name": "Teatco",
+    "languages": [
+        "Nacalcans",
+        "Ignan"
+    ],
+    "cities": [
+        "Texpan"
+    ],
+    "biomes": [
+        "Mountain",
+        "Tundra",
+        "Desert",
+        "Savanna",
+        "Grassland"
+    ]
+}
