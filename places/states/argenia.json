@@ -12,5 +12,8 @@
         "Tundra",
         "Temperate Forest",
         "Coast"
+    ],
+    "descriptions": [
+        ""
     ]
 }
