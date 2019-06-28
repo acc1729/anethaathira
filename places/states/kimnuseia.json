@@ -1,5 +1,9 @@
 {
     "name": "Kimnuseia",
+    "languages": [
+        "Kimnuseian",
+        "Argenian"
+    ],
     "cities": [
         "Tauricope",
         "Santecrea",
@@ -10,5 +14,9 @@
         "Temperate Forest",
         "Savanna",
         "Desert"
+    ],
+    "descriptions": [
+        "With scant access to the coast, save for a network of rivers in the north east, most Kimnuseian traders travel by land. One of the largest countries by size alone, governance is uncentralized, with most towns sharing a common culture, both socially and politically.",
+        "!Thanks to its lack of central control, many cities and towns operate independently. As a result, the military cannot influence affairs far inland, leading to instability along the Kimnuseia-Teatco border. In particular, Karst has been aggressively campaigning north of the border."
     ]
 }
