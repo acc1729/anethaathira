@@ -1,0 +1,18 @@
+{
+    "name": "Lukia",
+    "languages": [
+        "Lukian"
+    ],
+    "cities": [
+        "Fushan",
+        "Finem Orientalum"
+    ],
+    "biomes": [
+        "Coast",
+        "Temperate Forest"
+    ],
+    "descriptions": [
+        "Lukia and Lainonia are very closely related culturally. The nations have a treaty over the eastern coast of the continent, and share many trade routes.",
+        "Finem Orientalum lies just off the coast of Lukia and Lainonia. The shores of the mountain serve as an excellent stopping point for naval vessels."
+    ]
+}
