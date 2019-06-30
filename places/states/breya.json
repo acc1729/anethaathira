@@ -1,0 +1,19 @@
+{
+    "name": "Breya",
+    "languages": [
+        "Kimnuseian",
+        "Lainonian"
+    ],
+    "cities": [
+        "Psych"
+    ],
+    "biomes": [
+        "Coastal",
+        "Grassland",
+        "Temperate Forest"
+    ],
+    "descriptions": [
+        "Breya is a fairly ordinary country. The powers that be are concerned with the situation in Tetaco, but don't have many worries aside from that.",
+        "!Shipping is often difficult thanks to the bridge. As a result, Breyan sailors are reknowned for their skill in piloting sea vessels."
+    ]
+}
