@@ -1,8 +1,10 @@
 {
     "name": "Choir of the Storms",
     "descriptions": [
-        "The amalgam of all thunderstorms. Tends not to speak directly to any adherents or disciples.",
-        "Infrequently worshipped, not a public god seeking recognition. Closer to a force of nature than anything else."
+        "The amalgam of all thunderstorms.",
+        "Tends not to speak directly to any adherents or disciples.",
+        "Infrequently worshipped, not a public god seeking recognition.",
+        "Closer to a force of nature than anything else."
     ],
     "adherents": [
         "None"
