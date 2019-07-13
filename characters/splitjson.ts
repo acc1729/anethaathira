@@ -7,7 +7,7 @@ export default function gatherSplitPrint(formatter: Function): void {
     files.forEach(file => {
         let rawdata = fs.readFileSync(file).toString();
         let data = JSON.parse(rawdata);
-        let payload = JSON.stringify(splitDiety(data), null, 4);
+        let payload = JSON.stringify(splitPerson(data), null, 4);
         fs.writeFileSync(file, payload);
         console.log(`Pushed ${file} back to json.`);
     });
@@ -15,11 +15,13 @@ export default function gatherSplitPrint(formatter: Function): void {
 
 
 
-interface Diety {
+interface Person {
     name: string;
-    descriptions: Array<string>;
-    spheres: Array<string>;
-    adherents: Array<string> | null;
+    region: string;
+    title: string;
+    details: Array<string>;
+    patron: string;
+    relations: Array<string>;
 };
 
 function properSplit(str: string): Array<string> {
@@ -35,16 +37,16 @@ function properSplit(str: string): Array<string> {
     return properStrings;
 }
 
-function splitDiety(diety: Diety): object {
-    let descriptions = [];
-    for (let description of diety.descriptions) {
-        let sentences = properSplit(description);
+function splitPerson(person: Person): object {
+    let details = [];
+    for (let detail of person.details) {
+        let sentences = properSplit(detail);
         for (let sentence of sentences) {
-            descriptions.push(sentence);
+            details.push(sentence);
         }
     };
-    diety.descriptions = descriptions;
-    return diety;
+    person.details = details;
+    return person;
 };
 
-gatherSplitPrint(splitDiety);
+gatherSplitPrint(splitPerson);

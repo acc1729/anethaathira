@@ -3,8 +3,13 @@
     "region": "Placus, Kimnuseia",
     "title": "Wizard",
     "details": [
-        "Darius is a twenty-six year old magician, close friends with Malcolm. Darius has a tall, broad build, with short jet black hair and a rugged complexion. Having learnt as much as he can in the small city of Placus, near the Maple Forest, Darius has set out to explore the world and further empower himself through study and practice. Darius has reservations about Malcolm's power, finding its source to be somewhat disgraceful to the art of magic, but more importantly, very dangerous as well. Darius specializes in Abjuration.",
-        "!Although Darius condemns using otherworldly patrons to gain magical knowledge, the young wizard attains many odd spells and feats in his travels. His quest for knowledge often leads him to dangerous places, and the powerful magics he channels through himself take a toll on his body."
+        "Darius is a twenty-six year old magician, close friends with Malcolm.",
+        "Darius has a tall, broad build, with short jet black hair and a rugged complexion.",
+        "Having learnt as much as he can in the small city of Placus, near the Maple Forest, Darius has set out to explore the world and further empower himself through study and practice.",
+        "Darius has reservations about Malcolm's power, finding its source to be somewhat disgraceful to the art of magic, but more importantly, very dangerous as well.",
+        "Darius specializes in Abjuration.",
+        "!Although Darius condemns using otherworldly patrons to gain magical knowledge, the young wizard attains many odd spells and feats in his travels.",
+        "!His quest for knowledge often leads him to dangerous places, and the powerful magics he channels through himself take a toll on his body."
     ],
     "patron": "Gillast",
     "relations": [

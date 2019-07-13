@@ -3,8 +3,13 @@
     "region": "Kimnuseia",
     "title": "Assassin",
     "details": [
-        "A middle-aged human, roughly forty years old. Graying hair and a lean, trim build behind a jovial, kind hearted smile. Frequently wears a purple cloak with the hood down, accented by a silvery pauldron on the right shoulder. Finds himself in the good graces of the local nobility, where his unique skills afford him a life of travel.",
-        "!Thomas's striking efficiency with his craft has earnt him the gaze of several powerful groups of people, as well as Alektrozh herself. In combat, Thomas can invoke a prayer to Alektrozh, binding everyone near him to a promise with her. Breaking the promise causes black flames to wick up and consume those who defile it."
+        "A middle-aged human, roughly forty years old.",
+        "Graying hair and a lean, trim build behind a jovial, kind hearted smile.",
+        "Frequently wears a purple cloak with the hood down, accented by a silvery pauldron on the right shoulder.",
+        "Finds himself in the good graces of the local nobility, where his unique skills afford him a life of travel.",
+        "!Thomas's striking efficiency with his craft has earnt him the gaze of several powerful groups of people, as well as Alektrozh herself.",
+        "!In combat, Thomas can invoke a prayer to Alektrozh, binding everyone near him to a promise with her.",
+        "!Breaking the promise causes black flames to wick up and consume those who defile it."
     ],
     "patron": "Alektrozh",
     "relations": [
