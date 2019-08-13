@@ -43,7 +43,7 @@ function jsonToCountry(country, options) {
     ;
     var return_string = "";
     return_string.concat("## " + country.name);
-    return ("## " + country.name + "\n\n### Common languages: " + languages.join(", ") + "\n### Present biomes: " + biomes.join(", ") + "s\n\n" + descriptions.join("  s\n") + "\n");
+    return ("## " + country.name + "\n\n### Common languages: " + languages.join(", ") + "\n### Present biomes: " + biomes.join(", ") + "\n\n" + descriptions.join("  \n") + "\n");
 }
 ;
 globber_1["default"](jsonToCountry, options, "# Countries of Anethaathira\n", 'country.md');

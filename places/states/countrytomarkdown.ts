@@ -50,9 +50,9 @@ function jsonToCountry(country: Country, options: Options): string | void {
         `## ${country.name}
 
 ### Common languages: ${languages.join(", ")}
-### Present biomes: ${biomes.join(", ")}s
+### Present biomes: ${biomes.join(", ")}
 
-${descriptions.join("  s\n")}
+${descriptions.join("  \n")}
 `
     );
 };

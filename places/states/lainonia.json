@@ -1,0 +1,16 @@
+{
+    "name": "Lainonia",
+    "languages": [
+        "Lainonian"
+    ],
+    "cities": [
+        "Tsishan"
+    ],
+    "biomes": [
+        "Coast"
+    ],
+    "descriptions": [
+        "Lainonia competes with Breya for economic trade. The bridge cuts right through the country, revealing the northern coast for free passage without worry.",
+        "The country shares much of its culture with its Southern neighbor, Lukia. Trade is frequent between the two countries, and they are both in accord with Finem Orientalum."
+    ]
+}

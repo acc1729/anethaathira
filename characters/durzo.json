@@ -3,8 +3,10 @@
     "region": "Tauricope, Kimnuseia",
     "title": "Forge Cleric",
     "details": [
-        "A short, bald human with a red beard from the port city of Tauricope. Wears a sleeveless shirt with an encircled red hammer on the back, and an iron bangle with Komra's red teardrop on his bicep.",
-        "!Speaks Kimnuseian, Bri, Aquan, and Dwarvish. Left his wife and children in pursuit of the finest metals with which to perfect his craft."
+        "A short, bald human with a red beard from the port city of Tauricope.",
+        "Wears a sleeveless shirt with an encircled red hammer on the back, and an iron bangle with Komra's red teardrop on his bicep.",
+        "!Speaks Kimnuseian, Bri, Aquan, and Dwarvish.",
+        "!Left his wife and children in pursuit of the finest metals with which to perfect his craft."
     ],
     "patron": "Komra",
     "relations": [

@@ -1,0 +1,22 @@
+{
+    "name": "Tetaco",
+    "languages": [
+        "Nacalcans",
+        "Ignan"
+    ],
+    "cities": [
+        "Texpan",
+        "Jahuimavapas"
+    ],
+    "biomes": [
+        "Mountain",
+        "Tundra",
+        "Desert",
+        "Savanna",
+        "Grassland"
+    ],
+    "descriptions": [
+        "The second largest nation, ahead of Kimnuseia but behind Ordia. The capital city Texpan sits high atop a mountain, overlooking the vast plains and deserts of central Tetaco. Just as Kimnuseia, the sheer size of the country makes it hard to manage, but it retains a firmer control over its borders than its northern neighbor.",
+        "!Texpan finds itself vexed by the emergence of Karst Jahui. While the fierce warrior rampages through northern Tetaco, the current administration fears that he might secede or otherwise fail to obey their desires. A force has been sent marching northward in an attempt to envoy with Karst."
+    ]
+}
