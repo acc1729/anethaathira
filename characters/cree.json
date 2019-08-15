@@ -1,0 +1,18 @@
+{
+    "name": "Cree Nightshade",
+    "region": "Kimnuseia",
+    "title": "Shadow Monk",
+    "details": [
+        "Cree is a twenty-seven year old monk trained in the ways of shadow.",
+        "Cree does not have any recollection of her blood family.",
+        "Instead, she was adopted by Liam into the Nightshade clan, where she learned the ways of shadow.",
+        "Liam has since gone missing for unknown reasons in peculiar circumstances.",
+        "Cree often sends money back to the Nightshade clan.",
+        "!Cree has extreme hydrophobia."
+    ],
+    "patron": "None",
+    "relations": [
+        "Liam",
+        "Ellie"
+    ]
+}
