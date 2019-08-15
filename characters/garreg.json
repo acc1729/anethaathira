@@ -1,0 +1,15 @@
+{
+    "name": "!Garreg",
+    "region": "Kimnuseia",
+    "title": "Protector of Akrili",
+    "details": [
+        "Garreg is a large ogre who resides near Akrili.",
+        "Unusually well kempt for an ogre, the large creature usually stays out in the wilderness near town.",
+        "!Garreg is bonded with Grace, a weapon of nobility.",
+        "!The sentient weapon has given Garreg a deeper understanding of the world than a simple ogre, and causes him to behave atypically."
+    ],
+    "patron": "None",
+    "relations": [
+        "!Grace"
+    ]
+}

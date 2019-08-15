@@ -1,0 +1,16 @@
+{
+    "name": "Shasha",
+    "region": "Teteco",
+    "title": "Knight of Gillast",
+    "details": [
+        "Shasha is a large blue lizardfolk living in the prime material plane.",
+        "Shasha is an ardent worshipper of Gillast, and fights to keep the lands pure and untainted.",
+        "The humble, wise lizardfolk wields a halberd as a sign of vigilance.",
+        "!Shasha's deeds have not gone unnoticed by Gillast, who will exalt Shasha upon death by immortalizing his soul into Persistence."
+    ],
+    "patron": "Gillast",
+    "relations": [
+        "Gillast",
+        "The River King"
+    ]
+}
