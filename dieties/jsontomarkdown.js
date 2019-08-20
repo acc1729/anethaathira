@@ -35,7 +35,14 @@ function jsonToDiety(diety, options) {
     ;
     var return_string = "";
     return_string.concat("## " + diety.name);
-    return ("## " + diety.name + "\n### Spheres: " + spheres.join(", ") + "\n" + descriptions.join("  \n"));
+    if (hide) {
+        if (diety.name.startsWith('!')) {
+            return "";
+        }
+        descriptions = descriptions.filter(function (textLine) { return !textLine.startsWith('!'); });
+    }
+    var payload = "## " + diety.name + "\n### Spheres: " + spheres.join(", ") + "\n" + descriptions.join("  \n") + "\n";
+    return payload.replace(/!/g, "");
 }
 ;
-globber_1["default"](jsonToDiety, options, "Dieties of Anethaathira\n", 'dieties.md');
+globber_1["default"](jsonToDiety, options, "Dieties of Anethaathira\n", options.hide ? 'dieties_hidden.md' : 'dieties.md');

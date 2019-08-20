@@ -41,12 +41,20 @@ function jsonToDiety(diety: Diety, options: Options): string | void {
     let return_string = "";
     return_string.concat(`## ${diety.name}`);
 
-    return (
+    if (hide) {
+        if (diety.name.startsWith('!')) {
+            return ``;
+        }
+        descriptions = descriptions.filter((textLine: string): boolean => { return !textLine.startsWith('!') });
+    }
+
+    let payload =
         `## ${diety.name}
 ### Spheres: ${spheres.join(", ")}
 ${descriptions.join("  \n")}
-`
-    );
+`;
+
+    return payload.replace(/!/g, "");
 };
 
-gatherAndPrint(jsonToDiety, options, "Dieties of Anethaathira\n", 'dieties.md');
+gatherAndPrint(jsonToDiety, options, "Dieties of Anethaathira\n", options.hide ? 'dieties_hidden.md' : 'dieties.md');

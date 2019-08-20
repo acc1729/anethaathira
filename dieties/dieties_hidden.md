@@ -6,25 +6,12 @@ The diety associated with patience and silence.
 Usually patron of assassins and thieves, worship of alektrozh is common but kept underground.  
 Typically portrayed as a woman wearing purple-black garb, wearing a blindfold.
 
-## Aua, Goddess of Serenity
-### Spheres: Silence, Sorcery, Serenity
-Aua is the goddess of serenity, who grants favor to those who do not disturb the world around them.  
-A kind and caring goddess, her adherents swear oaths of silence.  
-Due to these oaths, her existence is unknown to the masses, with Jack being her only notable adherent, and chosen scion.
 
 ## Ballos
 ### Spheres: Hunger, Avarice, Slavery
 The great demon diety.  
-Long banished to hell, this demon is sometimes seen as symbolizing the enslaved and the downtrodden.  
-This is a mischaracterization.  
-Ballos consumes indiscriminately, and is banished even by other demons.
+Long banished to hell, this demon is sometimes seen as symbolizing the enslaved and the downtrodden.
 
-## Maiden of Bones
-### Spheres: Purity, Death, Rest
-The diety of skeletons.  
-Corpses are known to be vile things, with lost souls clinging to the viscera.  
-Remains are traditionally reduced to skeletons prior to burial or internment.  
-While the maiden's teachings are pervasive throughout Anethaathira, she herself has faded from legend.
 
 ## Boreas, King of Winds
 ### Spheres: Travel, Freedom, Nature
@@ -51,11 +38,7 @@ Closer to a force of nature than anything else.
 ### Spheres: Ice, Cold, Light
 The Brightlord is frequently worshipped by the tieflings of the plane of frost.  
 The region being constantly covered in snow, sunlight reflects off the ground.  
-As such, the brightlord is frequently associated with light, as well as the vicious frost of his domain.  
-The Brightlord often assumes an avatar in the Plane of Frost, walking amongst its denizens.  
-A kind and generous god, the Plane is united under his benevolent rule.  
-The Brightlord's avatar appears as a tan-skinned human male, with black hair and bright blue eyes.  
-The Brightlord occasionally greets interplanar travelers in-person, under the disguise of a local mayor or baron.
+As such, the brightlord is frequently associated with light, as well as the vicious frost of his domain.
 
 ## Gillast
 ### Spheres: Salt Water, Trade, Travel
@@ -87,11 +70,9 @@ Is said to reside in the depths of Coul's lake.
 Generally not worshipped, but known to exist.
 
 ## Sil Naril
-### Spheres: Oozes, Discipline, Control
+### Spheres: Discipline, Control
 Sil Naril is seen the goddess of discipline and control.  
-She is often seen as a role model to strive towards, allegedly mastering her own body and shaping herself to her will.  
-In reality, Sil Naril is the goddess of slimes.  
-Nevertheless, she finds herself oft worshipped by monks and their ilk.
+She is often seen as a role model to strive towards, allegedly mastering her own body and shaping herself to her will.
 
 ## Zanteg
 ### Spheres: Trade, Wealth, Civilization
