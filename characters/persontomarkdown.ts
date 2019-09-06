@@ -49,8 +49,8 @@ function jsonToPerson(person: Person, options: Options): string | void {
 
 ${details.join("\n")}
 `);
-
-    return payload.replace(/!/g, "");
+    payload = payload.replace(/!/g, "");
+    return payload;
 };
 
 gatherAndPrint(jsonToPerson, options, "# People of Anethaathira\n", options.hide ? 'people_hidden.md' : 'people.md');

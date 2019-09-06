@@ -13,6 +13,17 @@ The souls he speaks with, being consumed and tortured by Ballos, return to their
 He has five commanders, as well as two main armies.
 The Doves are tasked with recruitment, while the Crows are tasked with putting out Ballos' servants and the impure undead.
 
+## Alfred Caius
+
+### Region: Placus, Kimnuseia
+### Mayor of Placus
+
+The mayor of Placus is a portly, well-off individual skilled in the arts of insight and persuasion.
+He has kept the town of Placus prosperous and well-guarded, though the satelite towns don't have as much in the way of defense.
+The mayor has had a good relation with ardents of Ceretedefini, but recently that has changed due to Karst's northward aggression.
+He is planning a full surrender to Karst Jahui.
+The Iron Branch's forces are much to strong for a city with no army to withstand, and support from the mainland is scant.
+
 ## Cree Nightshade
 
 ### Region: Kimnuseia

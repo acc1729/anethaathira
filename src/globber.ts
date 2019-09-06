@@ -1,6 +1,6 @@
 'use strict';
 
-import fs from 'fs';
+import * as fs from 'fs';
 
 export default function gatherAndPrint(formatter: Function, options: object, header: string, destination: string): void {
     let files: Array<string> = fs.readdirSync('./')

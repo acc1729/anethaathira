@@ -28,7 +28,9 @@ function jsonToPerson(person, options) {
         details = details.filter(function (textLine) { return !textLine.startsWith('!'); });
     }
     var payload = ("## " + person.name + "\n\n### Region: " + person.region + "\n### " + person.title + "\n\n" + details.join("\n") + "\n");
-    return payload.replace(/!/g, "");
+    payload = payload.replace(/!/g, "");
+    console.log(payload);
+    return payload;
 }
 ;
 globber_1["default"](jsonToPerson, options, "# People of Anethaathira\n", options.hide ? 'people_hidden.md' : 'people.md');

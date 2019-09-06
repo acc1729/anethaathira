@@ -2,7 +2,7 @@
 Placus is a small city located in central Kimnuseia.
 Far away from any major tributaries, the town's trade suffers heavily, but arable land is plentiful.
 The area around Placus is mainly forest or grassland, and the region experiences the seasons four-fold.
-The mayor mostly cares about keeping the town safe, and the high presence of standing guards does a good job maintaining order.
+The mayor -- Alfred -- mostly cares about keeping the town safe, and the high presence of standing guards does a good job maintaining order.
 A secondary concern for the mayor is the approaching army of Karst Jahui.
 The mayor expects to be the first major city annexed by the general, and is preparing for a full surrender.
 Of note, no less-than-legal organizations take root in the town.

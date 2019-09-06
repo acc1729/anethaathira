@@ -1,8 +1,9 @@
 'use strict';
 exports.__esModule = true;
-var fs = require('fs');
+var fs = require("fs");
 function gatherAndPrint(formatter, options, header, destination) {
-    var files = fs.readdirSync('./').filter(function (file) { return file.endsWith('.json'); });
+    var files = fs.readdirSync('./')
+        .filter(function (file) { return file.endsWith('.json'); });
     var payload = [header];
     files.forEach(function (file) {
         var rawdata = fs.readFileSync(file).toString();
