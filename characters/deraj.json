@@ -1,0 +1,17 @@
+{
+    "name": "!Deraj",
+    "region": "Plane of Fire",
+    "title": "Deraj Suncrown",
+    "details": [
+        "Deraj is an orcish hero, reknowned for conquering the great wyvern Fulgurite.",
+        "!Deraj wields the legendary trident Edict, a weapon dripping with liquid fire.",
+        "!He seeks to gain passage from the outer Planes into Anethaathira proper.",
+        "!He plans on reclaiming the legendary greatsword Shatter and returning it to the orcish people."
+    ],
+    "patron": "Ngamaha",
+    "relations": [
+        "Ngamaha",
+        "Edict",
+        "Shatter"
+    ]
+}

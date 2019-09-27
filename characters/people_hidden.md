@@ -31,6 +31,7 @@ Having learnt as much as he can in the small city of Placus, near the Maple Fore
 Darius has reservations about Malcolm's power, finding its source to be somewhat disgraceful to the art of magic, but more importantly, very dangerous as well.
 Darius specializes in Abjuration.
 
+
 ## Durzo
 
 ### Region: Tauricope, Kimnuseia
@@ -67,6 +68,14 @@ It is said that he created the bridge that spans the world.
 Karst is a war general from a smaller city in Tetaco.
 The man is known for his for his tendancy to bury a city at the slightest sign of the presence of abberations, believing there to be an unholy invasion by outer kinds.
 Other cities are offered a choice: join his cause voluntary, or be crushed under the weight of his army.
+
+## Liam
+
+### Region: Tetoco
+### Nightshade
+
+Liam is a thief in the Nightshade clan, amongst the upper echelons of their tribe.
+Liam has mentored Cree Arkay and helped her develop her latent abilities.
 
 ## Malcolm
 

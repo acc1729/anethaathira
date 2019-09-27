@@ -49,6 +49,16 @@ Darius specializes in Abjuration.
 Although Darius condemns using otherworldly patrons to gain magical knowledge, the young wizard attains many odd spells and feats in his travels.
 His quest for knowledge often leads him to dangerous places, and the powerful magics he channels through himself take a toll on his body.
 
+## Deraj
+
+### Region: Plane of Fire
+### Deraj Suncrown
+
+Deraj is an orcish hero, reknowned for conquering the great wyvern Fulgurite.
+Deraj wields the legendary trident Edict, a weapon dripping with liquid fire.
+He seeks to gain passage from the outer Planes into Anethaathira proper.
+He plans on reclaiming the legendary greatsword Shatter and returning it to the orcish people.
+
 ## Durzo
 
 ### Region: Tauricope, Kimnuseia
@@ -109,6 +119,17 @@ The visions twisted in his mind, searing cruel images of otherworldly beings in 
 He dedicated himself to eradicating the aberrant and the monstrous.
 In times of great struggle he can bring these visions back to the front of his mind, reliving the trauma in exchange for the ability to see beyong the veil again, allowing him the gift of truesight, and the power to clamp any teleportation near him.
 These moments are scene as furious, psychotic episodes, and his feriocity during them has led to rumors of insanity.
+
+## Liam
+
+### Region: Tetoco
+### Nightshade
+
+Liam is a thief in the Nightshade clan, amongst the upper echelons of their tribe.
+Liam has mentored Cree Arkay and helped her develop her latent abilities.
+Liam was captured by Karst Jahui and extradited to Texpan for justice.
+Along the way, the trickster escaped his captors, and resides in Texpan.
+Liam is planning a heist on a national magic item auction.
 
 ## Malcolm
 
