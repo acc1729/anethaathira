@@ -79,6 +79,16 @@ Unusually well kempt for an ogre, the large creature usually stays out in the wi
 Garreg is bonded with Grace, a weapon of nobility.
 The sentient weapon has given Garreg a deeper understanding of the world than a simple ogre, and causes him to behave atypically.
 
+## Garret
+
+### Region: Plane of Ice
+### Hero of Ice
+
+Garret is a proud Tiefling from the Plane of Ice.
+The man has garnered the favor of the Tieflings the plane over, as well as commendation from Enhart himself.
+Garret has tamed a wild Lindwurm, Bite, and rides it into battle.
+The noble Tiefling is in search of a legendary weapon to bond with.
+
 ## Jack
 
 ### Region: Ultimum Occidens, Ordia
@@ -120,6 +130,26 @@ He dedicated himself to eradicating the aberrant and the monstrous.
 In times of great struggle he can bring these visions back to the front of his mind, reliving the trauma in exchange for the ability to see beyong the veil again, allowing him the gift of truesight, and the power to clamp any teleportation near him.
 These moments are scene as furious, psychotic episodes, and his feriocity during them has led to rumors of insanity.
 
+## Laris
+
+### Region: Plane of Earth
+### King of Dwarves
+
+Laris is the current king of the Plane of Earth.
+He rules with an iron fist, and has greatly increased the stature of the Plane of Earth.
+The grey lizardfolk violently claimed the throne from the previous monarch.
+
+## Lauv
+
+### Region: Plane of Earth
+### Iron Fist
+
+Lauv is a woman born to the deep ring of the Plane of Earth
+She rarely appears publically, so few details are known about her.
+Lauv has bonded to the legendary weapon Punishment.
+She is currently employed by Laris, the king of the Dwarves as his enforcer.
+Lauv Has gained the favor of Komra through her unquestioning loyalty to her sovereign.
+
 ## Liam
 
 ### Region: Tetoco
@@ -144,6 +174,16 @@ Malcolm's pact with the arch-fey River King grants him power over reality, but a
 Malcolm expects to be called to service at some point, but the River King does not wait for any moment in particular.
 Instead, the arch fey commands Malcolm in dreams, compelling the sleeping warlock to rise to serve his desires unknowingly.
 
+## Sharash
+
+### Region: Plane of Water
+### Witch of the Waters
+
+Sharash is a sorceror from the Plane of Water.
+Despite her tall lizardfolk stature, she prefers to work in more refined, elegant fashions.
+She has excellent control over the manipulation of water.
+It is unclear exactly how she does it, with many theorizing she's a cleric of Gillast.
+
 ## Shasha
 
 ### Region: Teteco
@@ -153,6 +193,15 @@ Shasha is a large blue lizardfolk living in the prime material plane.
 Shasha is an ardent worshipper of Gillast, and fights to keep the lands pure and untainted.
 The humble, wise lizardfolk wields a halberd as a sign of vigilance.
 Shasha's deeds have not gone unnoticed by Gillast, who will exalt Shasha upon death by immortalizing his soul into Persistence.
+
+## Taliv
+
+### Region: Plane of Air
+### Storm
+
+Taliv is an older Elvish gentleman, with frightening skill in dueling.
+Taliv has wandered deep across the storm-swept fields of the Plane of Air, gaining Boreas' favor.
+The fierce elf has bonded with Glimmer, a weapon that enjoys crushing its enemies and breaking their morale.
 
 ## Thomas
 

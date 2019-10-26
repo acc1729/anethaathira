@@ -41,6 +41,14 @@ A short, bald human with a red beard from the port city of Tauricope.
 Wears a sleeveless shirt with an encircled red hammer on the back, and an iron bangle with Komra's red teardrop on his bicep.
 
 
+## Garret
+
+### Region: Plane of Ice
+### Hero of Ice
+
+Garret is a proud Tiefling from the Plane of Ice.
+The man has garnered the favor of the Tieflings the plane over, as well as commendation from Enhart himself.
+
 ## Jack
 
 ### Region: Ultimum Occidens, Ordia
@@ -69,6 +77,22 @@ Karst is a war general from a smaller city in Tetaco.
 The man is known for his for his tendancy to bury a city at the slightest sign of the presence of abberations, believing there to be an unholy invasion by outer kinds.
 Other cities are offered a choice: join his cause voluntary, or be crushed under the weight of his army.
 
+## Laris
+
+### Region: Plane of Earth
+### King of Dwarves
+
+Laris is the current king of the Plane of Earth.
+He rules with an iron fist, and has greatly increased the stature of the Plane of Earth.
+
+## Lauv
+
+### Region: Plane of Earth
+### Iron Fist
+
+Lauv is a woman born to the deep ring of the Plane of Earth
+She rarely appears publically, so few details are known about her.
+
 ## Liam
 
 ### Region: Tetoco
@@ -87,6 +111,14 @@ He is a rather thin man with sun-kissed skin, with a skinny nose and thin lips t
 His eyes are a deep amber color, and he has light brown hair with streaks of blonde.
 Typical attire for Malcolm on a daily basis is a black robe lined with bits of yellow design covering up leather armor underneath.
 
+## Sharash
+
+### Region: Plane of Water
+### Witch of the Waters
+
+Sharash is a sorceror from the Plane of Water.
+Despite her tall lizardfolk stature, she prefers to work in more refined, elegant fashions.
+
 ## Shasha
 
 ### Region: Teteco
@@ -95,6 +127,13 @@ Typical attire for Malcolm on a daily basis is a black robe lined with bits of y
 Shasha is a large blue lizardfolk living in the prime material plane.
 Shasha is an ardent worshipper of Gillast, and fights to keep the lands pure and untainted.
 The humble, wise lizardfolk wields a halberd as a sign of vigilance.
+
+## Taliv
+
+### Region: Plane of Air
+### Storm
+
+Taliv is an older Elvish gentleman, with frightening skill in dueling.
 
 ## Thomas
 

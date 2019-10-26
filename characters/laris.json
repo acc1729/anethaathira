@@ -1,0 +1,15 @@
+{
+    "name": "Laris",
+    "region": "Plane of Earth",
+    "title": "King of Dwarves",
+    "details": [
+        "Laris is the current king of the Plane of Earth.",
+        "He rules with an iron fist, and has greatly increased the stature of the Plane of Earth.",
+        "!The grey lizardfolk violently claimed the throne from the previous monarch."
+    ],
+    "patron": "Komra",
+    "relations": [
+        "Komra",
+        "Dwarves"
+    ]
+}

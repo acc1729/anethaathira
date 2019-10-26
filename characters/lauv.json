@@ -1,0 +1,17 @@
+{
+    "name": "Lauv",
+    "region": "Plane of Earth",
+    "title": "Iron Fist",
+    "details": [
+        "Lauv is a woman born to the deep ring of the Plane of Earth",
+        "She rarely appears publically, so few details are known about her.",
+        "!Lauv has bonded to the legendary weapon Punishment.",
+        "!She is currently employed by Laris, the king of the Dwarves as his enforcer.",
+        "!Lauv Has gained the favor of Komra through her unquestioning loyalty to her sovereign."
+    ],
+    "patron": "Komra",
+    "relations": [
+        "Komra",
+        "Punishment"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Sharash",
+    "region": "Plane of Water",
+    "title": "Witch of the Waters",
+    "details": [
+        "Sharash is a sorceror from the Plane of Water.",
+        "Despite her tall lizardfolk stature, she prefers to work in more refined, elegant fashions.",
+        "!She has excellent control over the manipulation of water.",
+        "!It is unclear exactly how she does it, with many theorizing she's a cleric of Gillast."
+    ],
+    "patron": "Gillast",
+    "relations": [
+        "Gillast"
+    ]
+}

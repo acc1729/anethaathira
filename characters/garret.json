@@ -1,0 +1,16 @@
+{
+    "name": "Garret",
+    "region": "Plane of Ice",
+    "title": "Hero of Ice",
+    "details": [
+        "Garret is a proud Tiefling from the Plane of Ice.",
+        "The man has garnered the favor of the Tieflings the plane over, as well as commendation from Enhart himself.",
+        "!Garret has tamed a wild Lindwurm, Bite, and rides it into battle.",
+        "!The noble Tiefling is in search of a legendary weapon to bond with."
+    ],
+    "patron": "Brightlord Enhart",
+    "relations": [
+        "Enhart",
+        "!Bite"
+    ]
+}

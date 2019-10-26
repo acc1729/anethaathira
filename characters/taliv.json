@@ -1,0 +1,15 @@
+{
+    "name": "Taliv",
+    "region": "Plane of Air",
+    "title": "Storm",
+    "details": [
+        "Taliv is an older Elvish gentleman, with frightening skill in dueling.",
+        "!Taliv has wandered deep across the storm-swept fields of the Plane of Air, gaining Boreas' favor.",
+        "!The fierce elf has bonded with Glimmer, a weapon that enjoys crushing its enemies and breaking their morale."
+    ],
+    "patron": "Boreas",
+    "relations": [
+        "Boreas",
+        "Glimmer"
+    ]
+}
