@@ -1,6 +1,7 @@
 ## Sunday, September 29th
 The party listened to the local crier, learning of highwaymen between Texpan and Psych.
 Additionally, the heard about a fallen shrine discovered on the way to Texpan.
+Finally, they hear of the magic item auction happening in the capitol.
 They set out, running into the highwaymen fairly fast.
 Cree talked with them, and negotiated passage for several silver, while Malcolm tried to get himself killed.
 On the road South, they parked their wagon and horses to go wander into the woods.
