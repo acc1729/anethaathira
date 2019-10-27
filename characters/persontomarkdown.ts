@@ -1,6 +1,6 @@
 'use strict';
 
-import gatherAndPrint from './../src/globber'
+import gatherAndPrint from './../src/globber.ts'
 
 interface Person {
     name: string;
@@ -17,8 +17,8 @@ interface Options {
 }
 
 const options: Options = {
-    hide: process.argv[2] === "true" ? true : false,
-    categories: process.argv.slice(3),
+    hide: Deno.args[1] === "true" ? true : false,
+    categories: Deno.args.slice(2),
 }
 
 function jsonToPerson(person: Person, options: Options): string | void {
@@ -52,5 +52,6 @@ ${details.join("\n")}
     payload = payload.replace(/!/g, "");
     return payload;
 };
-
+console.log(`Hello.`)
 gatherAndPrint(jsonToPerson, options, "# People of Anethaathira\n", options.hide ? 'people_hidden.md' : 'people.md');
+

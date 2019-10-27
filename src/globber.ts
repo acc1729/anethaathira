@@ -1,18 +1,16 @@
 'use strict';
 
-import * as fs from 'fs';
+import { readJsonSync, writeFileStrSync, walkSync } from 'https://deno.land/std/fs/mod.ts';
 
 export default function gatherAndPrint(formatter: Function, options: object, header: string, destination: string): void {
-    let files: Array<string> = fs.readdirSync('./')
-        .filter((file: string): boolean => { return file.endsWith('.json') });
     let payload: Array<string | void> = [header];
-    files.forEach(file => {
-        let rawdata = fs.readFileSync(file).toString();
-        let data = JSON.parse(rawdata);
+    for (const file of walkSync('.')) {
+	console.log(file);
+	if (file.filename.endsWith('.json')) {
+        let data = readJsonSync(file.filename);
         payload.push(formatter(data, options));
-        console.log(`Pushed ${file} to markdown.`)
-    });
-
-    fs.writeFileSync(destination, payload.join('\n'));
+        console.log(`Pushed ${file.filename} to markdown.`);}
+    };
+    writeFileStrSync(destination, payload.join('\n'));
 }
 
