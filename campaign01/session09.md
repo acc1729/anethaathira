@@ -8,4 +8,3 @@ Dropping off their friends in a system of caves, the party descended the other s
 They killed a Redcap, and eventually made their way into the Plane of Earth.
 After dispatching a group of undead in a stone hallway, the party traveled another few days until coming upon a Dwarven garrison.
 They ascended from the crypts into the Dwarven city of Siral, and planned to travel to Firechannel soon after.
-
