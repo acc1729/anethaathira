@@ -11,6 +11,17 @@ Liam was captured by Karst Jahui and extradited to Texpan for justice.
 Along the way, the trickster escaped his captors, and resides in Texpan.
 Liam is planning a heist on a national magic item auction.
 
+## Khaladna
+
+### Region: Southern Arithira
+### High Mage of Ordia
+
+Khaladna was the great mage of Ordia, famous for his mastery of Etherealness and Truesight
+The sage's control over the arcane brought a great expansionary period to Ordia.
+Khaladna had been resurrected by Alex, binding to his skeleton for the sole task of destroying Ballos.
+The skeleton leads an army of Crows in southern Arithira, working behind the scenes.
+During the fall of Texpan, Khaladna's men descended upon castle Texpan to abscond with King Johnson the First's remains.
+
 ## Alex
 
 ### Region: Oltava, Nikmaa
@@ -58,6 +69,16 @@ The mayor has had a good relation with ardents of Ceretedefini, but recently tha
 He is planning a full surrender to Karst Jahui.
 The Iron Branch's forces are much to strong for a city with no army to withstand, and support from the mainland is scant.
 
+## Zharka
+
+### Region: Southern Anethena
+### Grandmaster at Arms
+
+Zharka was once the greatest fighter in all of Sigia.
+The tiefling was brought under by challenging too many combatants to group combat.
+Alex, recognizing the fabled fighter's potential, sought to bring him back to life to combat Ballos.
+The skeleton now trains and leads an army of Crows throughout the Sigia, Vilmiers, and Cachie.
+
 ## Taliv
 
 ### Region: Plane of Air
@@ -75,6 +96,16 @@ The fierce elf has bonded with Glimmer, a weapon that enjoys crushing its enemie
 Laris is the current king of the Plane of Earth.
 He rules with an iron fist, and has greatly increased the stature of the Plane of Earth.
 The grey lizardfolk violently claimed the throne from the previous monarch.
+
+## Isaac
+
+### Region: Central Ordia
+### Druid
+
+Isaac is a druid native to the continent of Anethena.
+He mentors the Illithid deserter Jizo on the ways of the natural world.
+Isaac has little sympathy for interlopers, and is unafraid to use violence to fulfill his goals.
+The man mercilessly hunts down the Crows, believing them to be the cause of the fires consuming the world.
 
 ## Sharash
 
@@ -146,6 +177,16 @@ Finds himself in the good graces of the local nobility, where his unique skills 
 Thomas's striking efficiency with his craft has earnt him the gaze of several powerful groups of people, as well as Alektrozh herself.
 In combat, Thomas can invoke a prayer to Alektrozh, binding everyone near him to a promise with her.
 Breaking the promise causes black flames to wick up and consume those who defile it.
+
+## Jizo
+
+### Region: Central Ordia
+### Druid
+
+Jizo is an Illithid male who made his way up from the underdark after the elder brain died,
+He met the druid Isaac in his search for refuge, and Isaac's burning passion consumed him like a wildfire.
+Jizo learnt of the natural workings of the world from the druid, and is beginning to process and understand them himself.
+Jizo, being a mindflayer, continues to eat sentient beings. Such is the way of the world.
 
 ## Malcolm
 
