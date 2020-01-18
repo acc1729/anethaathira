@@ -19,13 +19,6 @@ Long banished to hell, this demon is sometimes seen as symbolizing the enslaved 
 This is a mischaracterization.  
 Ballos consumes indiscriminately, and is banished even by other demons.
 
-## Maiden of Bones
-### Spheres: Purity, Death, Rest
-The diety of skeletons.  
-Corpses are known to be vile things, with lost souls clinging to the viscera.  
-Remains are traditionally reduced to skeletons prior to burial or internment.  
-While the maiden's teachings are pervasive throughout Anethaathira, she herself has faded from legend.
-
 ## Boreas, King of Winds
 ### Spheres: Travel, Freedom, Nature
 King of the plane of air, and worshipped by the elves that live there.  
@@ -62,6 +55,13 @@ The Brightlord occasionally greets interplanar travelers in-person, under the di
 God of the lizardfolk found through the plane of water.  
 Believed to grant safe passage to sea-faring vessels, this god is frequently worshipped by sailors and merchants on anethaathira.  
 Typically portrayed as a gleaming fish.
+
+## Irahari, Maiden of Purity
+### Spheres: Purity, Death, Rest
+The diety of skeletons.  
+Corpses are known to be vile things, with lost souls clinging to the viscera.  
+Remains are traditionally reduced to skeletons prior to burial or internment.  
+While the maiden's teachings are pervasive throughout Anethaathira, she herself has faded from legend.
 
 ## Komra
 ### Spheres: Blood, Industry, Civilization

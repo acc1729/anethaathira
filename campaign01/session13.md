@@ -1,4 +1,4 @@
-# Sunday, December 15th, 2019
+## Sunday, December 15th, 2019
 
 The party traveled a short distance to a city near Firechannel.
 They traveled down and found the gate to the Plane of Ice, a colliseum with six upright pillars.

@@ -1,4 +1,4 @@
-# Sunday, January 12th, 2020
+## Sunday, January 12th, 2020
 
 The party did some research on Ballos, the Feywild, and Khaladna.
 Malcolm got a fragment of his cloak stolen, and the party ran into Isaac.

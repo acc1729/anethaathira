@@ -1,13 +1,12 @@
 "use strict";
 
-import * as fs from "fs";
-import * as path from "path";
+import { readJsonSync, writeFileStrSync, readFileStrSync, walkSync } from 'https://deno.land/std/fs/mod.ts';
 
 const fileList: Array<string> = [
     "..\\dieties\\dieties.md",
     "..\\places\\states\\country.md",
     "..\\characters\\people.md",
-    "..\\scenarios\\basic.md"
+    "..\\campaign01\\thusfar.md"
 ];
 
 function reHeader(text: string): string {
@@ -16,12 +15,12 @@ function reHeader(text: string): string {
 }
 
 let output: string = "";
-for (let file of fileList) {
-    const filePath = path.join(__dirname, file)
-    const data: string = fs.readFileSync(filePath).toString();
-    output.concat(data);
-}
 
+for (let file of fileList) {
+    const data: string = readFileStrSync(file);
+    output = output.concat(data);
+}
 output = reHeader(output);
 
-fs.writeFileSync("everything.md", output);
+
+writeFileStrSync("everything.md", output);

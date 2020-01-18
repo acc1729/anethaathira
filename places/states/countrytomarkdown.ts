@@ -1,6 +1,6 @@
 'use strict';
 
-import gatherAndPrint from './../../src/globber'
+import gatherAndPrint from './../../src/globber.ts'
 
 interface Country {
     name: string;
@@ -16,8 +16,8 @@ interface Options {
 }
 
 const options: Options = {
-    hide: process.argv[2] === "true" ? true : false,
-    categories: process.argv.slice(3),
+    hide: Deno.args[1] === "true" ? true : false,
+    categories: Deno.args.slice(2),
 }
 
 function jsonToCountry(country: Country, options: Options): string | void {

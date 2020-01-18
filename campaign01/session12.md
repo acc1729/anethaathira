@@ -1,4 +1,4 @@
-# Sunday, December 8th, 2019
+## Sunday, December 8th, 2019
 
 Malcolm and Durzo were escorted through the beautiful spring-time city of Texpan, listening to the birds chirp and the streetcats play as they were escorted by the guards.
 Cree followed shortly behind, keeping herself hidden.

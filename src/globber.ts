@@ -1,6 +1,6 @@
 'use strict';
 
-import { readJsonSync, writeFileStrSync, walkSync } from 'https://deno.land/std/fs/mod.ts';
+import { readJsonSync, writeFileStrSync,  walkSync } from 'https://deno.land/std/fs/mod.ts';
 
 export default function gatherAndPrint(formatter: Function, options: object, header: string, destination: string): void {
     let payload: Array<string | void> = [header];

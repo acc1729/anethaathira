@@ -1,4 +1,4 @@
-# Sunday, November 17th, 2019
+## Sunday, November 17th, 2019
 
 The trio read a dossier on King Johnson and Karst Jahui.
 Malcolm met with Boris to talk about travels, and was taught the spell Silence.
