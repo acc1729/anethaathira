@@ -1,0 +1,16 @@
+{
+    "name": "Zharka",
+    "region": "Southern Anethena",
+    "title": "Grandmaster at Arms",
+    "details": [
+        "Zharka was once the greatest fighter in all of Sigia.",
+        "The tiefling was brought under by challenging too many combatants to group combat.",
+        "!Alex, recognizing the fabled fighter's potential, sought to bring him back to life to combat Ballos.",
+        "!The skeleton now trains and leads an army of Crows throughout the Sigia, Vilmiers, and Cachie."
+    ],
+    "patron": "Melazkir",
+    "relations": [
+        "Alex",
+        "Isaac"
+    ]
+}

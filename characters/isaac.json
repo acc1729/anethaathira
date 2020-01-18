@@ -1,0 +1,16 @@
+{
+    "name": "Isaac",
+    "region": "Central Ordia",
+    "title": "Druid",
+    "details": [
+        "Isaac is a druid native to the continent of Anethena.",
+        "He mentors the Illithid deserter Jizo on the ways of the natural world.",
+        "Isaac has little sympathy for interlopers, and is unafraid to use violence to fulfill his goals.",
+        "!The man mercilessly hunts down the Crows, believing them to be the cause of the fires consuming the world."
+    ],
+    "patron": "Ngamaha",
+    "relations": [
+        "Jizo",
+        "Durzo"
+    ]
+}

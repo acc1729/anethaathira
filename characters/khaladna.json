@@ -1,0 +1,17 @@
+{
+    "name": "Khaladna",
+    "region": "Southern Arithira",
+    "title": "High Mage of Ordia",
+    "details": [
+        "Khaladna was the great mage of Ordia, famous for his mastery of Etherealness and Truesight",
+        "The sage's control over the arcane brought a great expansionary period to Ordia.",
+        "!Khaladna had been resurrected by Alex, binding to his skeleton for the sole task of destroying Ballos.",
+        "!The skeleton leads an army of Crows in southern Arithira, working behind the scenes.",
+        "!During the fall of Texpan, Khaladna's men descended upon castle Texpan to abscond with King Johnson the First's remains."
+    ],
+    "patron": "Ceretedefini",
+    "relations": [
+        "Alex",
+        "Durzo"
+    ]
+}

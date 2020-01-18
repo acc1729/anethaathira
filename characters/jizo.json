@@ -1,0 +1,15 @@
+{
+    "name": "Jizo",
+    "region": "Central Ordia",
+    "title": "Druid",
+    "details": [
+        "Jizo is an Illithid male who made his way up from the underdark after the elder brain died,",
+        "He met the druid Isaac in his search for refuge, and Isaac's burning passion consumed him like a wildfire.",
+        "Jizo learnt of the natural workings of the world from the druid, and is beginning to process and understand them himself.",
+        "!Jizo, being a mindflayer, continues to eat sentient beings. Such is the way of the world."
+    ],
+    "patron": "Ngamaha",
+    "relations": [
+        "Isaac"
+    ]
+}
