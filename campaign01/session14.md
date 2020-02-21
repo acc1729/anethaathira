@@ -18,5 +18,4 @@ Having done so, they pulled out a box containing ossified remains, allegedly to-
 Isaac commanded them to crush the skeletons. After destroying one, the rest rose up and jumped over the railing into the ocean.
 After a brief explanation, Isaac turned into a seagull and departed for the shore.
 
-Later in Cache, the party met up with Isacc to discuss their plans and aspirations.
-
+Later in Cache, the party met up with Isaac to discuss their plans and aspirations.
