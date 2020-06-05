@@ -79,19 +79,50 @@ Once you successfully learn a trait, you must finish a long rest before using th
 
 At 6th, 11th, and 16th level, new classes of traits are available to you.
 
-* **Tier 1:** DC 13, must have 1 level in Blue Mage
-* **Tier 2:** DC 15, must have 1 level in Blue Mage
-* **Tier 3:** DC 17, must have 1 level in Blue Mage
-* **Tier 4:** DC 19, must have 1 level in Blue Mage
+**Tier 1:** DC 13, must have 1 level in Blue Mage
+**Tier 2:** DC 15, must have 6 levels in Blue Mage
+**Tier 3:** DC 17, must have 11 levels in Blue Mage
+**Tier 4:** DC 19, must have 16 levels in Blue Mage
 
-* **Aberration, Construct, Monstrosity, Ooze:** Arcana
-* **Dragon, Giant, Humanoid:** History
-* **Beast, Plant, Fey:** Nature
-* **Celestial, Fiend, Elemental, Undead:** Religion
+**Aberration, Construct, Monstrosity, Ooze:** Arcana
+**Dragon, Giant, Humanoid:** History
+**Beast, Plant, Fey:** Nature
+**Celestial, Fiend, Elemental, Undead:** Religion
 
 ## Fighting Style
 
+At 2nd level, you adopt a style of fighting as your specialty.
+Choose one of the following options.
+You can't take a Fighting Style option more than once, even if you later get to choose again.
+
+### Defense
+
+While you are wearing armor, you gain a +1 bonus to AC.
+
+### Dueling
+
+While you are wielding a melee weapon in one hand and no other wapons, you gain a +2 bonus to damage rolls with that weapon.
+
+### Great Weapon Fighting
+
+When you roll a 1 or a 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll.
+The weapon must have the two-handed or versatile property for you to gain this benefit.
+
+### Protection
+
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll.
+You must be wielding a shield.
+
 ## Spellcasting
+
+## Ability Score Improvement
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase on ability score of your choice by 2, or you can increase two ability scores of your choice by 1.
+As normal, you can't increase an ability score above 20 using this feature.
+
+## Extra Attack
+
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 # Subclasses
 
