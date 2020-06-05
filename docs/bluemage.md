@@ -57,9 +57,9 @@ To do
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- __(a)__ scale mail or __(b)__ leather armor
-- __(a)__ a long sword and a shield or __(b)__ a simple weapon and a shield
-- __(a)__ a dungeoneer's pack or __(b)__ an explorer's pack
+- *(a)* scale mail or *(b)* leather armor
+- *(a)* a long sword and a shield or *(b)* a simple weapon and a shield
+- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
 - A net and two daggers
 
 ## Traits
@@ -79,15 +79,15 @@ Once you successfully learn a trait, you must finish a long rest before using th
 
 At 6th, 11th, and 16th level, new classes of traits are available to you.
 
-**Tier 1:** DC 13, must have 1 level in Blue Mage
-**Tier 2:** DC 15, must have 6 levels in Blue Mage
-**Tier 3:** DC 17, must have 11 levels in Blue Mage
-**Tier 4:** DC 19, must have 16 levels in Blue Mage
+**Tier 1:** DC 13, must have 1 level in Blue Mage  
+**Tier 2:** DC 15, must have 6 levels in Blue Mage  
+**Tier 3:** DC 17, must have 11 levels in Blue Mage  
+**Tier 4:** DC 19, must have 16 levels in Blue Mage  
 
-**Aberration, Construct, Monstrosity, Ooze:** Arcana
-**Dragon, Giant, Humanoid:** History
-**Beast, Plant, Fey:** Nature
-**Celestial, Fiend, Elemental, Undead:** Religion
+**Aberration, Construct, Monstrosity, Ooze:** Arcana  
+**Dragon, Giant, Humanoid:** History  
+**Beast, Plant, Fey:** Nature  
+**Celestial, Fiend, Elemental, Undead:** Religion  
 
 ## Fighting Style
 
@@ -126,11 +126,11 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 # Subclasses
 
-__Thinking maybe three different archetypes.__
-__Monster hunter, lore master, and some sort of hippie explorer.__
-__I don't particularly care for monster hunter, but David seemed to like it as inspiration.__
-__Lore master could get expertise in some intelligence skills, and proficiency with investigation?__
-__Hippie explorer can some buff to passive perception, and maybe improved senses.__
+*Thinking maybe three different archetypes.*
+*Monster hunter, lore master, and some sort of hippie explorer.*
+*I don't particularly care for monster hunter, but David seemed to like it as inspiration.*
+*Lore master could get expertise in some intelligence skills, and proficiency with investigation?*
+*Hippie explorer can some buff to passive perception, and maybe improved senses.*
 
 # Spell List
 
@@ -140,8 +140,9 @@ To do
 
 To do
 
-__Warlock gets 32 invocations to select from. We'll have 4*14 for 56, almost double.__
-__Plus, the Blue Mage can typically have twice as many traits as a Warlock of equivalent level.__
+*Warlock gets 32 invocations to select from. We'll have 4*14 for 56, almost double.*
+*Plus, the Blue Mage can typically have twice as many traits as a Warlock of equivalent level.*
+*It would behoove us to keep Traits short and half as powerful as invocations.*
 
 
 # Other thoughts?
