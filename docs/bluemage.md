@@ -38,8 +38,8 @@ To do
 | 16th      | +5                    | Learn Improvement         | 9                | 4               | 4th            |
 | 17th      | +6                    | ---                       | 10               | 4               | 5th            |
 | 18th      | +6                    | ??? III                   | 10               | 4               | 5th            |
-| 19th      | +6                    | Ability Score Improvement | 10               | 4               | 5th            |
-| 20th      | +6                    | Subclass feature          | 10               | 4               | 5th            |
+| 19th      | +6                    | Ability Score Improvement | 11               | 4               | 5th            |
+| 20th      | +6                    | Subclass feature          | 11               | 4               | 5th            |
 
 ### Hit Points
 **Hit Dice:** 1d10 per blue mage level  
