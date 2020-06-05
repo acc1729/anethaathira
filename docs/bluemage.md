@@ -42,17 +42,17 @@ To do
 | 20th      | +6                    | Subclass feature          | 10               | 4               | 5th            |
 
 ### Hit Points
-**Hit Dice:** 1d10 per blue mage level
-**Hit Points at 1st Level:** 10 + your Constitution Modifier
-**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per blue mage level after 1st
+**Hit Dice:** 1d10 per blue mage level  
+**Hit Points at 1st Level:** 10 + your Constitution Modifier  
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per blue mage level after 1st  
 
 ### Proficiencies
-**Armor:** Light armor, medium armor, shields
-**Weapons:** Simple weapons, long swords, nets
-**Tools:** None
+**Armor:** Light armor, medium armor, shields  
+**Weapons:** Simple weapons, long swords, nets  
+**Tools:** None  
 
-**Saving Throws:** Strength, Intelligence
-**Skills:** Choose three from Athletics, Animal Handling, Arcana, History, Nature, Religion
+**Saving Throws:** Strength, Intelligence  
+**Skills:** Choose three from Athletics, Animal Handling, Arcana, History, Nature, Religion  
 
 ### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -140,11 +140,16 @@ To do
 
 To do
 
-*Warlock gets 32 invocations to select from. We'll have 4*14 for 56, almost double.*
+*Warlock gets 32 invocations to select from. We'll have 4 by 14 for 56, almost double.*
 *Plus, the Blue Mage can typically have twice as many traits as a Warlock of equivalent level.*
 *It would behoove us to keep Traits short and half as powerful as invocations.*
 
-
 # Other thoughts?
 
-Eh
+Still need to come up with great feats for levels 10, 14, and 18.
+
+- Insight vs Intelligence contested check to opportunity attack the Blue Mage
+- Can Charm creatures into thinking the Blue Mage is a creature of their type.
+- Can communicate with creatures as if the Blue MAge were their type.
+- Gets an opportunity attack against any creature that uses a feature (very tricky wording).
+- Charm or Frighten monster as an action, Int mod times per day.
