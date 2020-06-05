@@ -8,9 +8,13 @@ The blue mage learns traits from her enemies.
 
 The blue mage is a learned individual.
 
-## Creating a Blue Maga
+## Creating a Blue Mage
+
+To do
 
 ### Quick Build
+
+To do
 
 # Class Features
 
@@ -61,7 +65,7 @@ You start with the following equipment, in addition to the equipment granted by 
 ## Traits
 
 As part of your understanding of your foes, you may adopt certain traits throughout your travels.
-The traits you can learn are detailed in the Traits List at the end of this class.
+The traits you can learn are detailed in the Traits List at the end of this class description.
 You may know a number of traits equal to half your Blue Mage level + your Intelligence modifier.
 You may discard a known trait when learning a new one.
 
@@ -84,3 +88,31 @@ At 6th, 11th, and 16th level, new classes of traits are available to you.
 * **Dragon, Giant, Humanoid:** History
 * **Beast, Plant, Fey:** Nature
 * **Celestial, Fiend, Elemental, Undead:** Religion
+
+## Fighting Style
+
+## Spellcasting
+
+# Subclasses
+
+__Thinking maybe three different archetypes.__
+__Monster hunter, lore master, and some sort of hippie explorer.__
+__I don't particularly care for monster hunter, but David seemed to like it as inspiration.__
+__Lore master could get expertise in some intelligence skills, and proficiency with investigation?__
+__Hippie explorer can some buff to passive perception, and maybe improved senses.__
+
+# Spell List
+
+To do
+
+# Creature Traits
+
+To do
+
+__Warlock gets 32 invocations to select from. We'll have 4*14 for 56, almost double.__
+__Plus, the Blue Mage can typically have twice as many traits as a Warlock of equivalent level.__
+
+
+# Other thoughts?
+
+Eh
