@@ -138,11 +138,227 @@ To do
 
 # Creature Traits
 
-To do
-
 *Warlock gets 32 invocations to select from. We'll have 4 by 14 for 56, almost double.*
 *Plus, the Blue Mage can typically have twice as many traits as a Warlock of equivalent level.*
 *It would behoove us to keep Traits short and half as powerful as invocations.*
+*All recover on short rest? Long rest? Individual?*
+
+Traits are abilities learnt from other creatures.
+You must have the appropriate level in Learn to acquire a trait.
+If a trait causes a creature to make a saving throw, the DC is your Spell Save DC.
+If a trait allows you to cast a spell, use your Blue Mage Spell Attack Modifier or Spell Save DC.
+
+## Aberration I
+
+## Aberration II
+
+## Aberration III
+
+You can the ability to use the Mindflayer's *Mind Blast* feature.
+
+## Aberration IV
+
+You gain the ability to communicate telepathically.
+
+## Beast I
+
+Charge?
+
+## Beast II
+
+Pack Tactics (very strong passive, might be Beast III)
+
+## Beast III
+
+Self Polymorph?
+
+## Beast IV
+
+## Celestial I
+
+You become resistant to Radiant damage.
+
+## Celestial II
+
+You can cast *Levitate* on yourself at-will.
+
+## Celestial III
+
+## Celestial IV
+
+You spend 10 minutes during a short rest designating a creature as your 'partner.'
+Once you have a partner you may cast *Plane Shift* or *Teleport* without requiring material components, targeting your partners location.
+You can't do so again until you finish a long rest.
+
+## Construct I
+
+As an action, you may recover 1d10 hit points.
+You can't do so again until you finish a long rest.
+
+## Construct II
+
+You become resistant to Psychic damage.
+
+## Construct III
+
+You become immune to the Charm and Frightened conditions.
+
+## Construct IV
+
+## Dragon I
+
+Elemental dragons breath.
+
+## Dragon II
+
+Status dragons breath -- think metallic.
+
+## Dragon III
+
+Frightening Presense.
+
+## Dragon IV
+
+You gain a flying speed of 60 feet.
+
+## Elemental I
+
+Explode on death
+
+## Elemental II
+
+Adsorb Elements int Mod times per long rest?
+
+## Elemental III
+
+You become 
+
+## Elemental IV
+
+You can cast *Primordial Ward* without needing a material component.
+You can't do so again until you finish a long rest.
+
+## Fey I
+
+You can cast *Charm Person* at 1st level.
+You can't do so again until you finish a long rest.
+
+## Fey II
+
+(Maybe substitute this spell for an equivalent feat?)
+You can cast *Confusion* at 4th level.
+You can't do so again until you finish a long rest.
+
+## Fey III
+
+## Fey IV
+
+You can cast *Dominate Monster* at 8th level.
+You can't do so again until you finish a long rest.
+
+## Fiend I
+
+Find familiar?
+
+## Fiend II
+
+You become resistant to Fire and Cold damage.
+
+## Fiend III
+
+## Fiend IV
+
+## Giant I
+
+## Giant II
+
+As an action, you may throw a rock.
+Make a ranged weapon attack using Strength as your attack stat.
+On hit, this attack deals 4d6 + your Strength Modifier.
+You must wait a minute before using this feature again.
+
+## Giant III
+
+You may cast *Enlarge/Reduce* without requiring the material component, targeting yourself.
+You can't do so again until you finish a long rest.
+
+## Giant IV
+
+Storm Giant's thunderbolt, but tuned down a little.
+
+## Humanoid I
+
+## Humanoid II
+
+## Humanoid III
+
+## Humanoid IV
+
+## Monstrosity I
+
+Mimic's sticky body.
+
+## Monstrosity II
+
+Mimicry?
+
+## Monstrosity III
+
+Minotaur maze knowledge?
+
+## Monstrosity IV
+
+## Ooze I
+
+You gain resistance to Acid damage.
+
+## Ooze II
+
+Amorphous Form
+
+## Ooze III
+
+You ignore restrictions on ending your turn in a creature's square.
+Additionally, the first time a you enter a creature's square, and if it starts its turn in your square, you may choose to suffer from your acidity.
+The creature makes a Constitution saving throw, taking 2d8 acid damage on a failed save, and half as much on a success.
+
+## Ooze IV
+
+As a reaction to being hit by a melee attack, you may cause the attacker to take 1d8 acid damage.
+
+## Plant I
+
+Reaction to entangle a creature that hits you with a melee attack?
+
+## Plant II
+
+You gain resistance to lightning damage.
+
+## Plant III
+
+You can cast *Transport via Plants*.
+You can't do so again until you finish a long rest.
+
+## Plant IV
+
+Reaction to 
+
+## Undead I
+
+You become resistant to Necrotic damage.
+
+## Undead II
+
+You become immune to Poison and Disease.
+
+## Undead III
+
+Ghoul Touch?
+
+## Undead IV
+
+You can cast *Destructive Wave* at 5th level. The damage must be Necrotic.
+You can't do so again until you finish a long rest.
 
 # Other thoughts?
 
