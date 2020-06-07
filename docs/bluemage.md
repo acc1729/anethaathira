@@ -132,10 +132,6 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 *Lore master could get expertise in some intelligence skills, and proficiency with investigation?*
 *Hippie explorer can some buff to passive perception, and maybe improved senses.*
 
-# Spell List
-
-To do
-
 # Creature Traits
 
 *Warlock gets 32 invocations to select from. We'll have 4 by 14 for 56, almost double.*
@@ -341,7 +337,7 @@ You can't do so again until you finish a long rest.
 
 ## Plant IV
 
-Reaction to 
+Guardian of Nature?
 
 ## Undead I
 
@@ -359,6 +355,68 @@ Ghoul Touch?
 
 You can cast *Destructive Wave* at 5th level. The damage must be Necrotic.
 You can't do so again until you finish a long rest.
+
+# Spell List
+
+##### 1st Level
+- Detect Magic
+- Longstrider
+- Jump
+- Identify
+- Ensnaring Strike
+- Thunderwave
+- Protection from Good and Evil
+- Silent Image
+- Sleep
+- Feather Fall
+- Disguise Self
+- Snare
+- Entangle
+- Speak with Animals
+- Comprehend Languages
+
+##### 2nd Lever
+- Web
+- See Invisibility
+- Nystul's Magic Aura
+- Hold Person
+- Knock
+- Invisibility
+- Magic Weapon
+- Darkness
+- Entrhall
+- Blur
+- Mirror Image
+- Magic Mouth
+- Locate Object
+
+##### 3rd Lever
+- Tongues
+- Hypnotic Pattern
+- Meld into Stone
+- Major Image
+- Nondetection
+- Create Food and Water
+- Protection from Energy
+
+##### 4th Lever
+- Freedom of Movement
+- Greater Invisibility
+- Locate Creature
+- PHantasmal Killer
+- Hallucinatory Terrain
+- Dominate Beast
+- Charm Monster
+
+##### 5th Lever
+- Bigby's Hand
+- Teleportation Circle
+- Hold Monster
+- Mislead
+- Passwall
+- Modify Memory
+- Seeming
+- Planar Binding
 
 # Other thoughts?
 
