@@ -113,7 +113,42 @@ The weapon must have the two-handed or versatile property for you to gain this b
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll.
 You must be wielding a shield.
 
-## Spellcasting
+## Lore Magic
+
+Your arcane studies and familiarity with the extra-natural have given you facility with Spells.
+See chapter 10 of the Player's Handbook for the general rules of Spellcasting, and the end of this class description for your spell list.
+
+### Spell Slots
+
+The Blue Mage table shows how many spell slots you have.
+The table also shows what the level of those slots is; all of your spell slots are the same level.
+To cast one of your Blue Mage spells of 1st level or higher, you must expend a spell slot.
+You regain all expended spell slots when you finish a short or long rest.
+
+For example, when you are 5th level, you have two 2nd-level spell slots.
+To cast the 1st-level spell *Thunderwave*, you must spend one of those slots, and you cast it as a 2nd-level spell.
+
+### Spells Known of 1st Level and Higher
+
+At 2nd level, you know two 1st-level spells of your choice from the Blue Mage spell list.
+
+You learn a new Blue Mage spell at certain levels outlined in the class level progression table.
+A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level.
+When you reach 5th level, for example, you learn a new Blue Mage spell, which can be 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the Blue Mage spells you know and replace it with another spell from the Blue Mage spell list, which also must be of a level for which you have spell slots.
+
+### Spellcasting Ability
+
+Intelligence is your spellcasting ability for your Blue Mage spells, so you use your Intelligence whenever a spell refers to your spellcasting ability.
+In addition, you use your Intelligence modifier when setting the saving throw DC for a Blue Mage spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + Proficiency bonus + Intelligence modifier
+**Spell attack modifier** = Proficiency bonus + Intelligence modifier
+
+### Spellcasting Focus
+
+You can use an arcane focus as a Spellcasting focus for your Blue Mage spells.
 
 ## Ability Score Improvement
 
