@@ -197,7 +197,7 @@ A creature can repeat the saving throw at the end of each of its turns, ending t
 
 ## Aberration IV
 
-You gain the ability to communicate telepathically.
+You gain the ability to communicate telepathically (120ft).
 
 ## Beast I
 
@@ -247,7 +247,7 @@ You become immune to the Charm and Frightened conditions.
 
 ## Construct IV
 
-You gain
+You have advantage on saving throws against spells and other magical effects.
 
 ## Dragon I
 
