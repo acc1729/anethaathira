@@ -205,11 +205,12 @@ Charge?
 
 ## Beast II
 
-Pack Tactics (very strong passive, might be Beast III)
+You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Additionally, you ignore movement restrictions caused by webbing.
 
 ## Beast III
 
-Self Polymorph?
+Pack Tactics (very strong passive, might be Beast III)
 
 ## Beast IV
 
@@ -245,6 +246,8 @@ You become resistant to Psychic damage.
 You become immune to the Charm and Frightened conditions.
 
 ## Construct IV
+
+You gain
 
 ## Dragon I
 
