@@ -176,9 +176,11 @@ You become resistant to Radiant damage.
 
 ## Celestial II
 
-You can cast *Levitate* on yourself at-will.
+You can cast *Phantom Steed* at-will.
 
 ## Celestial III
+
+You can cast *Levitate* on yourself at-will.
 
 ## Celestial IV
 
