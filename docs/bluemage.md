@@ -411,7 +411,12 @@ You become immune to Poison and Disease.
 
 ## Undead III
 
-Ghoul Touch?
+As an action, you may imbue your hands with necrotic energy and strike at an enemy.
+Make an unarmed melee attack using Strength as your attack stat.
+On hit, this attack deals 6d8 + your Strength Modifier.
+If the target is a creature other than an undead, it must succeed on a Constitution saving throw or be paralyzed for 1 minute.
+The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+You must wait a minute before using this feature again.
 
 ## Undead IV
 
