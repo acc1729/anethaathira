@@ -146,11 +146,15 @@ If a trait allows you to cast a spell, use your Blue Mage Spell Attack Modifier 
 
 ## Aberration I
 
+
+
 ## Aberration II
 
 ## Aberration III
 
-You can the ability to use the Mindflayer's *Mind Blast* feature.
+You magically emit psychic energy in a 60-foot cone.
+Each creature in that area must succeed on an Intelligence saving throw or take 4d8 + your Intelligence modifier psychic damage, and be stunned for 1 minute.
+A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Aberration IV
 
