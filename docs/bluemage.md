@@ -296,7 +296,10 @@ Mimic's sticky body.
 
 ## Monstrosity II
 
-Mimicry?
+If you are subjected to an effect that allows you to make a saving throw to take only half damage, you can use your reaction to avoid it.
+On a success, you take no damage.
+On a failure, you take half damage.
+You can't do so again until you finish a long rest.
 
 ## Monstrosity III
 
