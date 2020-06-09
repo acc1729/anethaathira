@@ -308,9 +308,11 @@ You can't do so again until you finish a long rest.
 
 ## Monstrosity III
 
-Minotaur maze knowledge?
+You can perfectly recall any path you have traveled.
 
 ## Monstrosity IV
+
+A creature that touches your body or hits it with a melee attack while within 5 feet of you takes 10 (3d6) fire damage.
 
 ## Ooze I
 
