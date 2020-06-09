@@ -181,7 +181,11 @@ If a trait allows you to cast a spell, use your Blue Mage Spell Attack Modifier 
 
 ## Aberration I
 
-
+As an action, you may attack with a tentacle.
+Make a ranged (20/40) weapon attack using Intelligence as your attack stat.
+On hit, this attack deals 2d10 + your Intelligence modifier psychic damage.
+If the target is a Medium or smaller creature, it is pulled 20 feet towards you.
+You must wait a minute before using this feature again.
 
 ## Aberration II
 
@@ -310,7 +314,7 @@ You become resistant to Fire and Cold damage.
 ## Giant II
 
 As an action, you may throw a rock.
-Make a ranged weapon attack using Strength as your attack stat.
+Make a ranged (40/120) weapon attack using Strength as your attack stat.
 On hit, this attack deals 4d6 + your Strength Modifier.
 You must wait a minute before using this feature again.
 
