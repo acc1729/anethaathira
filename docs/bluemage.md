@@ -292,7 +292,12 @@ Storm Giant's thunderbolt, but tuned down a little.
 
 ## Monstrosity I
 
-Mimic's sticky body.
+As an action, you may choose to become sticky.
+You adhere to anything that touches you.
+A Huge or smaller creature adhered to you is grappled by you (escape DC 13).
+*Ability checks made to escape this grapple have disadvantage. (Really powerful with this rider.)*
+This effect last for 10 minutes.
+You can't do so again until you finish a long rest.
 
 ## Monstrosity II
 
