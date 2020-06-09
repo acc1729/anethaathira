@@ -364,21 +364,25 @@ A creature that touches your body or hits it with a melee attack while within 5 
 
 ## Ooze I
 
-You gain resistance to Acid damage.
+You gain resistance to acid damage.
 
 ## Ooze II
 
-Amorphous Form
+As an action, you can assume an amorphous form.
+While amorphous, you can move through a space as narrow as 1 inch wide without squeezing.
+This effect lasts for 10 minutes.
+You can't do so again until you finish a long rest.
 
 ## Ooze III
 
 You ignore restrictions on ending your turn in a creature's square.
-Additionally, the first time a you enter a creature's square, and if it starts its turn in your square, you may choose to suffer from your acidity.
+Additionally, the first time a you enter a creature's square, and if it starts its turn in your square, you may choose to make it suffer from your acidity.
 The creature makes a Constitution saving throw, taking 2d8 acid damage on a failed save, and half as much on a success.
 
 ## Ooze IV
 
-As a reaction to being hit by a melee attack, you may cause the attacker to take 1d8 acid damage.
+As a reaction to being hit by a melee attack, you may cause the attacker to take 2d8 acid damage.
+Additionally, you can move up to half your movement without provoking an attack of opportunity.
 
 ## Plant I
 
