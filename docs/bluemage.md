@@ -343,6 +343,8 @@ You become resistant to Fire and Cold damage.
 
 ## Giant I
 
+Your carrying capacity triples.
+
 ## Giant II
 
 As an action, you may throw a rock.
@@ -357,7 +359,9 @@ You can't do so again until you finish a long rest.
 
 ## Giant IV
 
-Storm Giant's thunderbolt, but tuned down a little.
+You hurl a magical lightning bolt at a point you can see within 500 feet.
+Each creature within 10 feet of that point must make a Dexterity saving throw, taking 36 (8d8) lightning damage on a failed save, or half as much damage on a successful one.
+You can't do so again until you finish a long rest.
 
 ## Humanoid I
 
