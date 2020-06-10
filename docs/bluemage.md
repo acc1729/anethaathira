@@ -330,7 +330,8 @@ You can't do so again until you finish a long rest.
 
 ## Fiend I
 
-Find familiar?
+The *Find Familiar* spell is added to your spell list.
+A familiar summoned this way is always of the Fiend type.
 
 ## Fiend II
 
