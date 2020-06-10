@@ -159,6 +159,17 @@ As normal, you can't increase an ability score above 20 using this feature.
 
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
+## Type Mimicry
+
+Starting at 10th level, you learn to imitate the effect certain types of creature have on the Weave.
+You may spend 10 minutes meditating on a creature type (e.g., *Aberration*, *Celestial*, etc.).
+Henceforth, each creature of that type believes you to be of its own type.
+Creatures immune to the Charm status effect are unaffected, but do not perceive that you are trying to charm them.
+
+## Level 14 Feat
+
+## Level 18 Feat
+
 # Subclasses
 
 *Thinking maybe three different archetypes.*
