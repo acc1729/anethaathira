@@ -29,7 +29,7 @@ To do
 | 7th       | +3                    | Subclass feature          | 5                | 2               | 2nd            |
 | 8th       | +3                    | Ability Score Improvement | 5                | 3               | 2nd            |
 | 9th       | +4                    | ---                       | 6                | 3               | 3rd            |
-| 10th      | +4                    | ??? I                     | 6                | 3               | 3rd            |
+| 10th      | +4                    | Type Mimicry              | 6                | 3               | 3rd            |
 | 11th      | +4                    | Learn Improvement         | 7                | 3               | 3rd            |
 | 12th      | +4                    | Ability Score Improvement | 7                | 3               | 3rd            |
 | 13th      | +5                    | ---                       | 8                | 3               | 4th            |
@@ -270,11 +270,14 @@ Status dragons breath -- think metallic.
 
 ## Dragon III
 
-Frightening Presense.
+As an action, you evoke the terror of dragonkind.
+Each creature of your choice that is within 120 feet of you and aware of you must succeed on a Wisdom saving throw or become frightened for 1 minute.
+A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+If a creature's saving throw is successful or the effect ends for it, the creature is immune to this trait for the next 24 hours.
 
 ## Dragon IV
 
-You gain a flying speed of 60 feet.
+You gain a flying speed of 80 feet.
 
 ## Elemental I
 
