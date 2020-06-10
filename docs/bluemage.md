@@ -262,11 +262,23 @@ You have advantage on saving throws against spells and other magical effects.
 
 ## Dragon I
 
-Elemental dragons breath.
+You summon the force of elements in your chest, and breathe out destruction upon the battlefield.
+As an action, you exhale elementally charged breath in a 15-foot cone.
+Each creature caught in the cone must make a Dexterity saving throw, taking 4d8 damage of your breath's type on a failed save, or half as much on a successful one.
+You can't use this trait again until you finish a long rest.
+
+You choose the damage type upon learning this trait.
+Pick one of: Acid, Cold, Fire, Lightning, Thunder
 
 ## Dragon II
 
-Status dragons breath -- think metallic.
+As an action, you exhale a noxious gas in a 20-foot cone.
+Each creature caught in that area must succeed on a Constitution saving throw.
+On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn.
+In addition, the creature can use either an action or a bonus action on its turn, but not both.
+These effects last for 1 minute.
+The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+You can't use this trait again until you finish a long rest.
 
 ## Dragon III
 
