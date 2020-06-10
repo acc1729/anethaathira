@@ -285,7 +285,9 @@ Explode on death
 
 ## Elemental II
 
-Adsorb Elements int Mod times per long rest?
+You can cast *Adsorb Elements* at 2nd level at-will.
+You may use this trait a number of times equal to your Intelligence modifier.
+You regain all uses when you finish a long rest.
 
 ## Elemental III
 
