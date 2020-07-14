@@ -320,11 +320,12 @@ You can't do so again until you finish a long rest.
 
 ## Fey II
 
-(Maybe substitute this spell for an equivalent feat?)
-You can cast *Confusion* at 4th level.
-You can't do so again until you finish a long rest.
+You gain immunity to the Charmed and Frightened condition.
 
 ## Fey III
+
+You can cast *Confusion* at 4th level.
+You can't do so again until you finish a long rest.
 
 ## Fey IV
 
