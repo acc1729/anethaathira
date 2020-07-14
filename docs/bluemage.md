@@ -303,7 +303,10 @@ You regain all uses when you finish a long rest.
 
 ## Elemental III
 
-You become 
+You become imbued with the spirit of the elements.
+Pick one of: Acid, Cold, Fire, Lightning, Thunder.
+You gain resistance to that damage type.
+You may change the element you are resistant too to one of the above when you finish a long rest.
 
 ## Elemental IV
 
@@ -339,7 +342,22 @@ You become resistant to Fire and Cold damage.
 
 ## Fiend III
 
+You gain darkvision 120ft.
+Additionally, magical darkness does not impede your darkvision.
+
 ## Fiend IV
+
+You magically conjure an opaque wall of ice on a solid surface you can see within 60 feet of you.
+The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
+
+When the wall appears, each creature in its space is pushed out of it by the shortest route.
+The creature chooses which side of the wall to end up on, unless the creature is incapacitated.
+The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
+
+The wall lasts for 1 minute or until you are incapacitated.
+The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage.
+If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willing or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one.
+The frigid air dissipates when the rest of the wall vanishes. 
 
 ## Giant I
 
