@@ -212,7 +212,8 @@ You gain the ability to communicate telepathically (120ft).
 
 ## Beast I
 
-Charge?
+If you move at least 20 feet straight toward a target and then hit it with a melee attack on the same turn, the target takes an extra 7 (2d6) damage, of the attack's damage type.
+If the target is a creature, it must succeed on a Strength save or be knocked prone.
 
 ## Beast II
 
@@ -221,7 +222,7 @@ Additionally, you ignore movement restrictions caused by webbing.
 
 ## Beast III
 
-Pack Tactics (very strong passive, might be Beast III)
+You have advantage on any attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ## Beast IV
 
@@ -353,11 +354,11 @@ The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemi
 
 When the wall appears, each creature in its space is pushed out of it by the shortest route.
 The creature chooses which side of the wall to end up on, unless the creature is incapacitated.
-The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
+The creature then makes a Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
 
 The wall lasts for 1 minute or until you are incapacitated.
 The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage.
-If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willing or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one.
+If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willing or otherwise, the creature must make a Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one.
 The frigid air dissipates when the rest of the wall vanishes. 
 
 ## Giant I
