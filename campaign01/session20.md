@@ -1,4 +1,4 @@
-## Sunday, March 28th, 2020
+## Sunday, March 29th, 2020
 
 The party embarked on their journey through the marshlands of North Coul.
 Finding themselves without a boat, Durzo crafted one from a tree, through the will of Komra.
