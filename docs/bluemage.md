@@ -436,7 +436,7 @@ The creature makes a Constitution saving throw, taking 2d8 acid damage on a fail
 ## Ooze IV
 
 As a reaction to being hit by a melee attack, you may cause the attacker to take 2d8 acid damage.
-Additionally, you can move up to half your movement without provoking an attack of opportunity.
+Additionally, as part of the same reaction, you can move up to half your movement without provoking an attack of opportunity.
 
 ## Plant I
 
