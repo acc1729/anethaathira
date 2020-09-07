@@ -194,11 +194,16 @@ If a trait allows you to cast a spell, use your Blue Mage Spell Attack Modifier 
 
 As an action, you may attack with a tentacle.
 Make a ranged (20/40) weapon attack using Intelligence as your attack stat.
-On hit, this attack deals 2d10 + your Intelligence modifier psychic damage.
+On hit, this attack deals 2d8 + your Intelligence modifier psychic damage.
 If the target is a Medium or smaller creature, it is pulled 20 feet towards you.
 You must wait a minute before using this feature again.
 
 ## Aberration II
+
+As an action, you may coat yourself in a slimy mucous.
+For the next minute, the first time a creature hits you with a melee attack on a round, they take 7 (2d6) psychic damage.
+Additionally, you have advantage on checks made to escape the grappled condition.
+You can't do so again until you finish a long rest.
 
 ## Aberration III
 
@@ -226,6 +231,13 @@ Additionally, you ignore movement restrictions caused by webbing.
 You have advantage on any attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 ## Beast IV
+
+As an action, you may bite an enemy.
+Make a melee (reach 5ft) weapon attack using Strength as your attack stat.
+On hit, this attack deals 3d12 + your Strength Modifier.
+If the target is a Medium or smaller creature, it is grappled (escape DC 17).
+Until this grapple ends, the target is restrained.
+You must wait a minute before using this feature again.
 
 ## Celestial I
 
@@ -295,7 +307,7 @@ You gain a flying speed of 80 feet.
 
 ## Elemental I
 
-Explode on death
+You lose the need to breath to survive.
 
 ## Elemental II
 
@@ -386,11 +398,21 @@ You can't do so again until you finish a long rest.
 
 ## Humanoid I
 
+You gain proficiency in three tools of your choice.
+
 ## Humanoid II
+
+You gain proficiency in the Insight skill, or expertise if you were already proficient.
 
 ## Humanoid III
 
+As a reaction to failing a saving throw, you may re-roll the saving throw.
+You can't do so again until you finish a long rest.
+
 ## Humanoid IV
+
+Upon suffering an attack that would drop you to zero hit points, you may instead choose to drop to one hit point.
+You can't do so again until you finish a long rest.
 
 ## Monstrosity I
 
@@ -399,7 +421,7 @@ You adhere to anything that touches you.
 A Huge or smaller creature adhered to you is grappled by you (escape DC 13).
 *Ability checks made to escape this grapple have disadvantage. (Really powerful with this rider.)*
 This effect last for 10 minutes.
-You can't do so again until you finish a long rest.
+You can't do so again until you finish a long rest.  
 
 ## Monstrosity II
 
@@ -440,7 +462,7 @@ Additionally, as part of the same reaction, you can move up to half your movemen
 
 ## Plant I
 
-Reaction to entangle a creature that hits you with a melee attack?
+You add the spell *Thorn Whip* to your known cantrips.
 
 ## Plant II
 
@@ -453,7 +475,8 @@ You can't do so again until you finish a long rest.
 
 ## Plant IV
 
-Guardian of Nature?
+You ignore movement restrictions or damage caused by inanimate plants.
+Additionally, you gain a blindsight (60ft) while surrounded by folliage.
 
 ## Undead I
 
