@@ -562,12 +562,16 @@ You can't do so again until you finish a long rest.
 - Seeming
 - Planar Binding
 
-# Other thoughts?
+# Other Thoughts
 
-Still need to come up with great feats for levels 10, 14, and 18.
+## General
+
+Still need to come up with great feats for 14, and 18.
 
 - Insight vs Intelligence contested check to opportunity attack the Blue Mage
 - Can Charm creatures into thinking the Blue Mage is a creature of their type.
-- Can communicate with creatures as if the Blue MAge were their type.
+- Can communicate with creatures as if the Blue Mage were their type.
 - Gets an opportunity attack against any creature that uses a feature (very tricky wording).
 - Charm or Frighten monster as an action, Int mod times per day.
+
+## Alternate Traits 
