@@ -3,7 +3,7 @@
 In Tien, the group set off doing their usual bid.
 The party met Michael at the hunter's lodge in town, who told them some rumors of the dragon to the West.
 Somewhat unsatisfied with his answers, they took off -- Malcolm and Cree to the shops, Durzo to the forge.
-Durzo helped Zane and his apprentice with some shopwork, repairing a damaged shield own by Reynauld, a Paladin hunting were creating.
+Durzo helped Zane and his apprentice with some shopwork, repairing a damaged shield owned by Reynauld, a Paladin hunting were-creatures.
 
 They made their way to the tavern, alive with the evening's revelry.
 At some point, a fellow Paladin approached Durzo, inquiring to any sightings of werewolves or weretigers.
